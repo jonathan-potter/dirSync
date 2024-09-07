@@ -1,0 +1,14 @@
+{
+  "name": "dirsync",
+  "version": "0.0.1",
+  "description": "sync directories over a network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jonathan.potter.business@gmail.com",
+  "license": "UNLICENCED",
+  "dependencies": {
+    "chokidar": "^3.6.0"
+  }
+}
